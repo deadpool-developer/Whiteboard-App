@@ -54,7 +54,7 @@ body{
   margin-top: 1vh;
   font-size: 50px;
   display: inline-block;
-  font-family: "Gill Floriated Caps MT",sans-serif;
+  font-family: 'Nosifer', cursive;
   text-shadow: 0px 6px 3px rgba(0,0,0,0.4),
              0px 10px 13px rgba(0,0,0,0.1),
              0px 18px 23px rgba(0,0,0,0.1);
@@ -121,10 +121,11 @@ z-index: 10;
 }
 
 .brush{
-  width: 4vw;
+ width: 4vw;
   height: 10vh;
-  margin-left: 61vw;
-  margin-top: -14.5vh;
+  margin-left: 67vw;
+  margin-top: -11vh;
+  margin-bottom: 18vh;
  
 }
 
